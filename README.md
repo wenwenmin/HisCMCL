@@ -21,6 +21,17 @@ The publicly available ST datasets were used in this study. You can download the
 -  human cutaneous squamous cell carcinoma 10x Visium data from GSE144240.
 -  10x Genomics Visium data and Swarbrick’s Laboratory Visium data from https://doi.org/10.48610/4fb74a9.
 
+## Repository Structure
+
+```text
+HisCMCL/
+├── requirements/           # Environment Configuration
+├── HisCMCL/            # Core modules for model and utilities
+├── Baseline/         # Baseline methods for comparison
+├── Tutorial/         # Jupyter notebooks for tutorials
+└── README.md         # Documentation
+```
+
 ## HisCMCL pipeline
 
 - Run `hvg.py` generation of highly variable genes.
