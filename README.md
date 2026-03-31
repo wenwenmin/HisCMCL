@@ -38,3 +38,6 @@ HisCMCL/
 - Run `train.py`
 - Run `evel.py`
 
+## Contact details
+
+If you have any questions, please contact liuchengju@stu.ynu.edu.cn and minwenwen@yun.edu.cn.
