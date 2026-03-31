@@ -1,4 +1,4 @@
-# HisCMCL
+# HisCMCL: Cross-Modal Contrastive Learning with Hierarchical Multi-Scale Fusion for Spatial Expression Prediction
 ## Overview
 HisCMCL is an innovative deep learning framework developed to improve the accuracy of spatial gene expression prediction. This framework combines features from Hematoxylin and Eosin (H&E) stained tissue images with spatial gene expression data, leveraging contrastive learning techniques for accurate gene expression predictions. By integrating local and global image features, HisCMCL addresses the challenges of extracting spatially accurate gene expression data from histological images, offering a promising solution to the limitations of traditional spatial transcriptomics (ST) methods.
 
