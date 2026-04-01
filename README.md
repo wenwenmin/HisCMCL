@@ -38,6 +38,17 @@ HisCMCL/
 - Run `train.py`
 - Run `evel.py`
 
+## Tutorial
+This tutorial notebook provides a small demo for the Alex dataset, including:
+- Screening of highly variable genes
+- Evaluation of gene expression prediction
+- Downstream analysis on a subset of the dataset
+
+Run the tutorial script to process your data step by step:
+
+```bash
+jupyter notebook tutorial.ipynb
+```
 ## Contact details
 
 If you have any questions, please contact liuchengju@stu.ynu.edu.cn and minwenwen@yun.edu.cn.
